@@ -1,0 +1,125 @@
+# Created on 2020-03-02T16:42:52.110
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:386)
+	at java.lang.Thread.run(Thread.java:813)
+
+
+# Created on 2020-03-02T16:42:52.895
+Unexpected IOException with stream: Mar 02, 2020 4:42:52 PM apiTesting.restAssuredTestCases.apiPOSTTestCases beforeTest
+INFO: RestAssured.baseURI = https://uat.tractorsupply.com
+
+
+# Created on 2020-03-02T16:42:52.898
+Unexpected IOException with stream: Mar 02, 2020 4:42:52 PM apiTesting.restAssuredTestCases.apiPOSTTestCases readData
+INFO: POSTTestCase_ID = TC-40851
+
+
+# Created on 2020-03-02T16:42:52.900
+Unexpected IOException with stream: Mar 02, 2020 4:42:52 PM apiTesting.restAssuredTestCases.apiPOSTTestCases readData
+INFO: Step = 1
+
+
+# Created on 2020-03-02T16:42:52.903
+Unexpected IOException with stream: Mar 02, 2020 4:42:52 PM apiTesting.restAssuredTestCases.apiPOSTTestCases readData
+INFO: Type = BODY
+
+
+# Created on 2020-03-02T16:42:53.232
+Unexpected IOException with stream: Mar 02, 2020 4:42:53 PM apiTesting.restAssuredTestCases.apiPOSTTestCases readData
+INFO: shtName =Request-Body
+
+
+# Created on 2020-03-02T16:42:53.234
+Unexpected IOException with stream: Mar 02, 2020 4:42:53 PM apiTesting.restAssuredTestCases.apiPOSTTestCases readData
+INFO: Last Row Num of SheetRequest-Body = 6
+
+
+# Created on 2020-03-02T16:42:53.237
+Unexpected IOException with stream: Mar 02, 2020 4:42:53 PM apiTesting.restAssuredTestCases.apiPOSTTestCases readData
+INFO: inside Both Loop
+
+
+# Created on 2020-03-02T16:42:53.239
+Unexpected IOException with stream: Mar 02, 2020 4:42:53 PM apiTesting.restAssuredTestCases.apiPOSTTestCases readData
+INFO: body[0] = logonId
+
+
+# Created on 2020-03-02T16:42:53.242
+Unexpected IOException with stream: Mar 02, 2020 4:42:53 PM apiTesting.restAssuredTestCases.apiPOSTTestCases readData
+INFO: body[1] = tscpackslip3@yahoo.com
+
+
+# Created on 2020-03-02T16:42:53.244
+Unexpected IOException with stream: Mar 02, 2020 4:42:53 PM apiTesting.restAssuredTestCases.apiPOSTTestCases readData
+INFO: inside Both Loop
+
+
+# Created on 2020-03-02T16:42:53.246
+Unexpected IOException with stream: Mar 02, 2020 4:42:53 PM apiTesting.restAssuredTestCases.apiPOSTTestCases readData
+INFO: body[0] = logonPassword
+
+
+# Created on 2020-03-02T16:42:53.248
+Unexpected IOException with stream: Mar 02, 2020 4:42:53 PM apiTesting.restAssuredTestCases.apiPOSTTestCases readData
+INFO: body[1] = Tractor123
+
+
+# Created on 2020-03-02T16:42:53.251
+Unexpected IOException with stream: Mar 02, 2020 4:42:53 PM apiTesting.restAssuredTestCases.apiPOSTTestCases beforeTest
+INFO: sBodyValue[1] = tscpackslip3@yahoo.com
+
+
+# Created on 2020-03-02T16:42:53.490
+Unexpected IOException with stream: Mar 02, 2020 4:42:53 PM apiTesting.restAssuredTestCases.apiPOSTTestCases readData
+INFO: POSTTestCase_ID = TC-40851
+
+
+# Created on 2020-03-02T16:42:53.494
+Unexpected IOException with stream: Mar 02, 2020 4:42:53 PM apiTesting.restAssuredTestCases.apiPOSTTestCases readData
+INFO: Step = 1
+
+
+# Created on 2020-03-02T16:42:53.497
+Unexpected IOException with stream: Mar 02, 2020 4:42:53 PM apiTesting.restAssuredTestCases.apiPOSTTestCases readData
+INFO: Type = HEADER
+
+
+# Created on 2020-03-02T16:42:53.511
+Unexpected IOException with stream: Mar 02, 2020 4:42:53 PM apiTesting.restAssuredTestCases.apiPOSTTestCases readData
+INFO: shtName =Request-Header
+
+
+# Created on 2020-03-02T16:42:53.514
+Unexpected IOException with stream: Mar 02, 2020 4:42:53 PM apiTesting.restAssuredTestCases.apiPOSTTestCases readData
+INFO: Last Row Num of SheetRequest-Header = 3
+
+
+# Created on 2020-03-02T16:42:53.517
+Unexpected IOException with stream: Mar 02, 2020 4:42:53 PM apiTesting.restAssuredTestCases.apiPOSTTestCases readData
+INFO: inside Both Loop
+
+
+# Created on 2020-03-02T16:42:53.520
+Unexpected IOException with stream: Mar 02, 2020 4:42:53 PM apiTesting.restAssuredTestCases.apiPOSTTestCases readData
+INFO: inside Header Loop
+
+
+# Created on 2020-03-02T16:42:57.913
+Unexpected IOException: 8,1,apiTesting.restAssuredTestCases.apiPOSTTestCases,beforeTest(apiTesting.restAssuredTestCases.apiPOSTTestCases),null,null,null,null,apiPOSTTestCases.beforeTest:79 NullPointer,java.lang.NullPointerException\000A\0009at apiTesting.restAssuredTestCases.apiPOSTTestCases.beforeTest(apiPOSTTestCases.java:79)\000A
+
+
+# Created on 2020-03-02T16:42:57.935
+Unexpected IOException: 5,1,apiTesting.restAssuredTestCases.apiPOSTTestCases,postTest(apiTesting.restAssuredTestCases.apiPOSTTestCases),apiTesting.restAssuredTestCases.apiPOSTTestCases,null,null
+
+
+# Created on 2020-03-02T16:42:57.939
+Unexpected IOException: 9,1,apiTesting.restAssuredTestCases.apiPOSTTestCases,postTest(apiTesting.restAssuredTestCases.apiPOSTTestCases),null,null,null
+
+
+# Created on 2020-03-02T16:42:58.164
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

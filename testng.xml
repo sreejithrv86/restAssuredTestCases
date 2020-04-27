@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+     <!--  <class name="apiTesting.restAssuredTestCases.apiDELETETestCases"/>
+      <class name="apiTesting.restAssuredTestCases.apiGETTestcases"/> 
+      <class name="apiTesting.restAssuredTestCases.AppTest"/> -->
+      <class name="apiTesting.restAssuredTestCases.apiPOSTTestCases"/> 
+   <!--  <class name="apiTesting.restAssuredTestCases.apiPUTTestCases"/> -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,4 @@
+apiTesting\restAssuredTestCases\apiDELETETestCases.class
+apiTesting\restAssuredTestCases\apiPUTTestCases.class
+apiTesting\restAssuredTestCases\apiPOSTTestCases.class
+apiTesting\restAssuredBasic\BaseTest.class
